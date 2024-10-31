@@ -1,6 +1,6 @@
 # Hi Alien! 👽
 I'm The Weeknd from Earth 🌍
-![Welcome Banner](https://giphy.com/embed/phwcO1vmJhqTrwKp2h)
+![Welcome Banner](https://giphy.com/gifs/loop-space-earth-phwcO1vmJhqTrwKp2h)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
