@@ -1,28 +1,27 @@
-# Hi, I'm The Weeknd 👋
+# Hi Alien! 👽
+I'm The Weeknd from Earth 🌍
 
-![Welcome Banner](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
-
-I'm a software engineering student, passionate about coding in Python, Java, PHP, and more!
-
----
-
-### 🛠 Tech & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ---
 
-### 🔥 GitHub Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=Lattakone1&theme=dark)
+### 🛠 Technologies and Tools
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 ---
 
 ### 🌟 Fun Fact
-> Did you know? The first computer programmer was Ada Lovelace.
+After a day, we learned something new? Or duplicate of yesterday?
 
----
-
-### 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/yourname) • [Twitter](https://twitter.com/yourusername) • [Email](mailto:youremail@example.com)
 
