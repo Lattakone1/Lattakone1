@@ -1,9 +1,6 @@
 # Hi Alien! 👽
 I'm The Weeknd from Earth 🌍
-![Earth Spinning](https://your-github-link/assets/earth-spinning.gif)
-### 🌌 Watch Earth Spinning in Space
-[![Watch Earth Turn](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
+![Welcome Banner](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
