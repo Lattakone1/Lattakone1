@@ -17,12 +17,12 @@ I'm The Weeknd from Earth 🌍
 ---
 
 ### 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.facebook.com/luttana.kone/)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:227480201is001@vanlanguni.vn)
 
 ---
 
 ### 🌟 Fun Fact
-After a day, we learned something new? Or duplicate of yesterday?
+After a day, we learned something new? Or duplicate of yesterday? 
 
 
