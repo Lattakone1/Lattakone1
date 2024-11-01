@@ -1,5 +1,7 @@
 # Hi Alien! 👽
-![Welcome Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFibWppZ2h6c3MxNnRpd2J5NG9hcjh5bWlzODQwdXBqNnc0c2E4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnBSIn7vTqCDKJW/giphy.gif)![Welcome Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h1emw0b2xybTU3ODVyMzQ1aW1saWRvb28xdHNoODR3dnpwZXVhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r88w2d7tHqazFwNEGN/giphy.gif)
+![Welcome Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFibWppZ2h6c3MxNnRpd2J5NG9hcjh5bWlzODQwdXBqNnc0c2E4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnBSIn7vTqCDKJW/giphy.gif)
+![Welcome Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW54bnBqanhlOGM1d3lidjNreGVnZ3g0aXU4Z3o1b2U2bDNyejQwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/phwcO1vmJhqTrwKp2h/giphy.gif)
+![Welcome Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h1emw0b2xybTU3ODVyMzQ1aW1saWRvb28xdHNoODR3dnpwZXVhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r88w2d7tHqazFwNEGN/giphy.gif)
 I'm The Weeknd from Earth 🌍
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
