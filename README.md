@@ -1,4 +1,4 @@
-# Hi Alien! 👽 I'm The Weeknd from Earth 🌍
+# Hi Alien! 👽
 ![Welcome Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml4OHo1MTkwcm5wMjY5aDE5cGVpaG1tZHRzNXJwczY1cXRmNDh3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/phwcO1vmJhqTrwKp2h/giphy.gif)
 
 I'm The Weeknd from Earth 🌍
