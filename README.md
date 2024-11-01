@@ -1,6 +1,8 @@
 # Hi Alien! 👽 I'm The Weeknd from Earth 🌍
 ![Welcome Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml4OHo1MTkwcm5wMjY5aDE5cGVpaG1tZHRzNXJwczY1cXRmNDh3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/phwcO1vmJhqTrwKp2h/giphy.gif)
 
+I'm The Weeknd from Earth 🌍
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
